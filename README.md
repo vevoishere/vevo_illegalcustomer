@@ -1,8 +1,8 @@
 # vevo_illegalcustomer
 Hi, everyone!
 
-Server.lua 42.satırı kendi black money verme tarzınıza göre değiştirmeniz gereklidir.
+You should look at line 42 in the server.lua file.
 
-#  Contacts
+#  Contact with me:
 
 Vevo#3838 - discord.gg/luaroleplay
