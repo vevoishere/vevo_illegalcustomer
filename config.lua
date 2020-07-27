@@ -30,7 +30,7 @@ Config = {
 		1507916787,
 	},
 	
-	Black = true,
+	Black = false,
 	
 	MinClockHour = 23,
     MaxClockHour = 05,
