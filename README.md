@@ -2,7 +2,6 @@
 Hi, everyone!
 
 Server.lua 42.satırı kendi black money verme tarzınıza göre değiştirmeniz gereklidir.
-Config.lua editleyebilirsiniz.
 
 #  Contacts
 
