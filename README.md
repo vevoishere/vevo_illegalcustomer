@@ -5,5 +5,4 @@ Server.lua 42.satırı kendi black money verme tarzınıza göre değiştirmeniz
 
 #  Contacts
 
-Vevo#3838
-discord.gg/luaroleplay
+Vevo#3838 - discord.gg/luaroleplay
