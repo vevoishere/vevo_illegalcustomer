@@ -254,8 +254,6 @@ function GoToTargetWalking(x, y, z, vehicle, driver, vehhash, miktar, totalprice
                             end)
 						else
 							
-							local playerCoords = GetEntityCoords(PlayerPedId())
-							TriggerServerEvent('yordi:illegalSatis', source, playerCoords.x, playerCoords.y, playerCoords.z)
 							
 							exports['mythic_progbar']:Progress({
 								name = "talkingnpc",
